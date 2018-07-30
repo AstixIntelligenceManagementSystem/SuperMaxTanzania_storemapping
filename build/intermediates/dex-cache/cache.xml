@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\libs\http-core-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\build\intermediates\pre-dexed\debug\http-core-4.1_5dfc8bdb9e4c5f1ef258732871db44c2396119b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\libs\httpclient-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="781b68c2fd5335de914166241b8d4bfe8c2f91b7">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\build\intermediates\pre-dexed\debug\httpclient-4.0.2_f25dfb8c1ce18a7b200237e934b276c5cf1f2484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\libs\android-async-http-1.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3_83197c8db0be53962c9e3e802de89a327131639b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\libs\ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="400a2afc7073b2e68c3841db8b9b71d4182f242d">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.6.0-jar-with-dependencies_4798c10497c6195fca7690dc94bbf854bc599bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\libs\bugsense-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="495021ce133ff403d469bc73b897d54c5bd36dc8">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SuperMaxTanzania_storemapping\app\build\intermediates\pre-dexed\debug\bugsense-1.9_a81061b086df0b597e5924ce84375497adbccd7e.jar" />
+    </item>
+
+</items>
